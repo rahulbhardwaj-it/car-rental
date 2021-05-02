@@ -6,6 +6,4 @@ Easy Bookings.
 Create/Manage Brands.
 Post/Manage Vehicle.
  Manage Bookings, Testimonials, Contact Queries, Pages.
- password**
- Admin
- 1234
+ 
